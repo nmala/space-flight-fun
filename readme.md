@@ -47,7 +47,7 @@
 ### Attributes
 * name (String)
 * age (Number)
-* been_to_Space? (Boolean)
+* been_to_space? (Boolean)
 * Astronauts should be able to change their age and whether they've been to space, but not their name
 
 ### Methods

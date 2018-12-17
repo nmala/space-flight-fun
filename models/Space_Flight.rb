@@ -15,4 +15,9 @@ class SpaceFlight
     @@all
   end
 
+  def self.mission_names
+    self.all.each {|sf| puts "The mission name of this spaceship is #{sf.mission_name}" }
+  end
+
+
 end
